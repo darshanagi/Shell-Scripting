@@ -7,10 +7,6 @@ echo "I am from Devops and cloud team"
 echo "I am learning Devops and cloud team"
 echo "what is your issue"
 
-echo "Mentor:Darshan"
-echo "I am learning Devops and cloud team"
-echo "I am learning Devops and cloud team"
-echo "I am learning Devops and cloud team"
-echo "this is extra line of code"
+
 echo "i am in learning phase"
 echo "dont worry about the mistakes"
